@@ -1,0 +1,16 @@
+{
+  "name": "authkit-angular",
+  "version": "0.1.0+dev0",
+  "peerDependencies": {
+    "@angular/common": "^19.1.0",
+    "@angular/core": "^19.1.0",
+    "@workos-inc/authkit-js": "^0.9.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "devDependencies": {
+    "@workos-inc/authkit-js": "^0.9.0"
+  },
+  "sideEffects": false
+}
